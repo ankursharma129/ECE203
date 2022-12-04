@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ee203fa22bs
 HostName                       ieng6-ece-06.ucsd.edu
-ProcessIdentifier              21157
-ProcessCreationTime_UTC        1669871128
-ProcessCreationTime_Readable   Wed Nov 30 21:05:28 2022 PST
+ProcessIdentifier              30600
+ProcessCreationTime_UTC        1670087756
+ProcessCreationTime_Readable   Sat Dec  3 09:15:56 2022 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/linux/ieng6/ee203fa22/ee203fa22bs/Documents/ECE_203_ankur/basic_blocks/OTA_tb/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Wed Nov 30 21:44:59 2022 PST
+FilePathUsedToEditLock         /home/linux/ieng6/ee203fa22/ee203fa22bs/Documents/ECE_203_ankur/basic_blocks/OTA/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Dec  3 09:23:13 2022 PST
